@@ -1,2 +1,3 @@
 # Misc
-Misc Documents
+
+This repo contains miscellaneous documents and files
